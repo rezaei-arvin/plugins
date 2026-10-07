@@ -1,12 +1,16 @@
-<activationrequest>
-  <version>3</version>
-  <machinehash>7C8E-A58B-D532-F437</machinehash>
-  <productcode>13</productcode>
-  <majorversion>10</majorversion>
-  <minorversion>0</minorversion>
-  <serialnumber>A3XA-X66R-6AE3-7A7Z-DBFX-KCHJ</serialnumber>
-  <session>d0b48e04-7e86-fd63-2dd3-13b18847f745</session>
-  <locale>en-US</locale>
-  <anonymous>true</anonymous>
-  <custom />
-</activationrequest>
+<activationresponse>
+<data>
+<machinehash>7C8E-A58B-D532-F437</machinehash>
+<productcode>13</productcode>
+<majorversion>10</majorversion>
+<minorversion>0</minorversion>
+<serialnumber>A3XA-X66R-6AE3-7A7Z-DBFX-KCHJ</serialnumber>
+<session>d0b48e04-7e86-fd63-2dd3-13b18847f745</session>
+<edition>Standard</edition>
+<version>3</version>
+<userspurchased>1</userspurchased>
+</data>
+<signature>
+RMFr7UKwBj0/H8xGWDgJkvIu8DlhE/ex4e8rbJklWhn5c2xXrWG/MqsyyNaiqa1t920m33wRbCME0JGWqK/8rMmrE6TWY956RoJItyFNui007hhRrUHb9L9gCEwc2HFJ1jBOGvPxpDQAR/hmkdXOD/5Q1rgsLSAajcTkIMFGDW0=
+</signature>
+</activationresponse>
