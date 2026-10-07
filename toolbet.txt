@@ -1,0 +1,12 @@
+<activationrequest>
+  <version>3</version>
+  <machinehash>7C8E-A58B-D532-F437</machinehash>
+  <productcode>13</productcode>
+  <majorversion>10</majorversion>
+  <minorversion>0</minorversion>
+  <serialnumber>A3XA-X66R-6AE3-7A7Z-DBFX-KCHJ</serialnumber>
+  <session>d0b48e04-7e86-fd63-2dd3-13b18847f745</session>
+  <locale>en-US</locale>
+  <anonymous>true</anonymous>
+  <custom />
+</activationrequest>
